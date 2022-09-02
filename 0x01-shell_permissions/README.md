@@ -1,1 +1,1 @@
-Assigns mirror permissions
+Adds execute permissions to all subdirectories
