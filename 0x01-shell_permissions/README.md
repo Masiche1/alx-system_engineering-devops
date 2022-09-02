@@ -1,1 +1,1 @@
-Adds execute permission to everybody
+Adds all permissions to other users
