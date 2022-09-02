@@ -1,1 +1,1 @@
-Adds all permissions to other users
+Assigns mirror permissions
