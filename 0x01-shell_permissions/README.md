@@ -1,1 +1,1 @@
-Changing file owner
+Prints current user
