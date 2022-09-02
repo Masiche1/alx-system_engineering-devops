@@ -1,1 +1,1 @@
-Prints current user
+List all groups
