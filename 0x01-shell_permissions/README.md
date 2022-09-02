@@ -1,1 +1,1 @@
-Changes the file owner
+Creates an empty file
