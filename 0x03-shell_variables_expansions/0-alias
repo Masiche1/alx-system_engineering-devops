@@ -1,2 +1,2 @@
 #!/bin/bash
-alx li="rm *"
+alias li="rm *"
