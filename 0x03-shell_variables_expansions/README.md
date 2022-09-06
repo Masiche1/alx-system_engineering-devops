@@ -1,1 +1,1 @@
-creates an alias
+prints the current user
