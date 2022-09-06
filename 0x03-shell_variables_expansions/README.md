@@ -1,1 +1,1 @@
-prints the current user
+Counts the number directories
