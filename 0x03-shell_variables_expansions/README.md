@@ -1,1 +1,1 @@
-Counts the number directories
+Prints environmental variables
