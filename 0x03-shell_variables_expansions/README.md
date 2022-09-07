@@ -1,1 +1,1 @@
-Prints all possible combinations of two letters
+Prints a float
