@@ -1,1 +1,1 @@
-Prints the result of breath to the power of love
+Converts a number from binary to decimal
