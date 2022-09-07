@@ -1,1 +1,1 @@
-Prints the result of power divided by divide
+Prints the result of breath to the power of love
