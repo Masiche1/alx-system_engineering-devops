@@ -1,1 +1,1 @@
-Converts a number from binary to decimal
+Prints all possible combinations of two letters
