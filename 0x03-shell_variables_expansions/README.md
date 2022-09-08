@@ -1,1 +1,1 @@
-Encodes and decodes text
+Prints every other line from the input
