@@ -1,1 +1,1 @@
-Prints only unique words from a list
+Displays lines containing a pattern from a file
