@@ -1,1 +1,1 @@
-Replace respective characters
+Removes all letter c
