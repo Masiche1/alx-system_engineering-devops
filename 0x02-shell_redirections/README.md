@@ -1,1 +1,1 @@
-Displays lines containing a pattern from a file
+Displays the number of lines containing a pattern
