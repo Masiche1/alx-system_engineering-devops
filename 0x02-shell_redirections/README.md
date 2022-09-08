@@ -1,1 +1,1 @@
-Lists all the files with .gif extension
+Decodes an acrostic using the first letter of each line
