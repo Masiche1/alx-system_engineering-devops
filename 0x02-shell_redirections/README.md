@@ -1,1 +1,1 @@
-Displays the last ten lines of a file
+Displays third line of a file
