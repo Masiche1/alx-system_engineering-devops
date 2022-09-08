@@ -1,1 +1,1 @@
-Converts decimal to hexadecimal
+Encodes and decodes text
