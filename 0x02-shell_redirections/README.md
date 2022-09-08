@@ -1,1 +1,1 @@
-Displays the number of lines containing a pattern
+Displays lines containing a pattern and three succeeding lines
