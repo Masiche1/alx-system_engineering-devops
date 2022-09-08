@@ -1,1 +1,1 @@
-Deletes all regular js files
+Counts the number of Directories
